@@ -1,35 +1,42 @@
 # js_blackboard
 javascript effects upon cursor hover actions. Practice purpose.
 
+# custom_setup_template
+My custom template for setting up my projects, including the folder structure as well as the basic html head structure and contents.      
+**Change where necessary**
+          
+<img src="#" width="600" height="350" alt="">             
+
+## Built With
+
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)        
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/css)             
+* [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)         
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)              
+* [Github](https://github.com/ShaviyaVictor/shaviya)
+
+## License
+
+This project is licensed under the [Apache License 2.0](https://github.com/ShaviyaVictor/custom_setup_template/blob/main/LICENSE).           
+
+## Resources
+- [YouTube](#)          
+- [Image source](#)          
+- [Image Download Link](#)          
+- [StackOverflow](#)          
 
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-    <meta name="keywords" content="###  add custom content  ###">
-    <meta name="description" content="###  add custom content  ###">
-    <meta name="author" content="Victor Shaviya">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- start of bootstrap cdn for styles and icons -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
-    <!-- end of bootstrap cdn -->
-    <!-- start of my custom css  -->
-    <link rel="stylesheet" href="./assets/styles.css" type="text/css">
-    <!-- end of my custom css rules  -->
-    <link rel="shortcut icon" type="image/ico" href="./assets/images/favicon.png">
-    <title>###  add custom content  ###</title>
-  </head>
+## Acknowledgments
 
-  <body>
+* @shaviyavictor
 
-    
+### Author
 
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-    <script src="./assets/logic.js"></script>
-  </body>
-</html>
+* **Victor Shaviya**        
+  - [BioLink](https://bio.link/shaviya)       
+  - [LinkedIn](https://www.linkedin.com/in/ShaviyaVictor/)          
+  - [Instagram](https://www.instagram.com/shaviyavictor/)        
+  - [Twitter](https://twitter.com/ShaviyaVictor)        
+  
+  
+**© Victor Shaviya**.
