@@ -7,4 +7,8 @@ document.addEventListener('mousemove', function(e) {
 
   body.appendChild(particles);
 
+  setTimeout(function() {
+    particles.remove()
+  })
+
 })
