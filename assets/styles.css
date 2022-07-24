@@ -1,0 +1,12 @@
+/* start of global styles */
+*
+{
+  margin: 0;
+  padding: 0;
+}
+body
+{
+  min-height: 100vh;
+  background: #303030;
+}
+/* end of the global styles */
