@@ -21,3 +21,15 @@ span
   border-radius: 50%;
 }
 /* end of particle styling */
+/* start of other multiple particles styles */
+span::before
+{
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  border-radius: 50%;
+  animation: movingParticles 2s linear infinite;
+}
+/* end of other multiple particles styles */
