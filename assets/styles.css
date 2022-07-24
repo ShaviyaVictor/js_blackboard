@@ -13,7 +13,7 @@ body
 /* start of content styling - the particle */
 span
 {
-  position: relative;
+  position: absolute;
   background: #f00;
   width: 10px;
   height: 10px;
