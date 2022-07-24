@@ -8,6 +8,10 @@ document.addEventListener('mousemove', function(e) {
   particles.style.left = x + 'px';
   particles.style.top = y + 'px';
 
+  let size = Math.random() * 8;
+  particles.style.width = 2 + size + 'px';
+  particles.style.height = 2 + size + 'px';
+
   body.appendChild(particles);
 
   setTimeout(function() {
