@@ -18,5 +18,6 @@ span
   width: 10px;
   height: 10px;
   pointer-events: none;
+  border-radius: 50%;
 }
 /* end of particle styling */
