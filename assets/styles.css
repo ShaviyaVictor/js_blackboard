@@ -10,3 +10,12 @@ body
   background: #303030;
 }
 /* end of the global styles */
+/* start of content styling - the particle */
+span
+{
+  position: relative;
+  background: #f00;
+  width: 10px;
+  height: 10px;
+}
+/* end of particle styling */
