@@ -9,6 +9,6 @@ document.addEventListener('mousemove', function(e) {
 
   setTimeout(function() {
     particles.remove()
-  })
+  }, 2000)
 
 })
