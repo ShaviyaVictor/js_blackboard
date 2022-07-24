@@ -5,4 +5,6 @@ document.addEventListener('mousemove', function(e) {
   let x = e.offsetX;
   let y = e.offsetY;
 
+  body.appendChild(particles);
+
 })
