@@ -1,10 +1,6 @@
 # js_blackboard
 javascript effects upon cursor hover actions. Practice purpose.
-
-# custom_setup_template
-My custom template for setting up my projects, including the folder structure as well as the basic html head structure and contents.      
-**Change where necessary**
-          
+         
 <img src="#" width="600" height="350" alt="">             
 
 ## Built With
@@ -17,14 +13,11 @@ My custom template for setting up my projects, including the folder structure as
 
 ## License
 
-This project is licensed under the [Apache License 2.0](https://github.com/ShaviyaVictor/custom_setup_template/blob/main/LICENSE).           
+This project is licensed under the [Apache License 2.0](https://github.com/ShaviyaVictor/js_blackboard/blob/main/LICENSE).           
 
 ## Resources
-- [YouTube](#)          
-- [Image source](#)          
-- [Image Download Link](#)          
-- [StackOverflow](#)          
-
+- [YouTube](https://www.youtube.com/watch?v=B3d3pMxPYa8)          
+- [Image source](https://www.pexels.com/)          
 
 ## Acknowledgments
 
