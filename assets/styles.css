@@ -8,6 +8,7 @@ body
 {
   min-height: 100vh;
   background: #303030;
+  overflow: hidden;
 }
 /* end of the global styles */
 /* start of content styling - the particle */
@@ -31,5 +32,15 @@ span::before
   background: #fff;
   border-radius: 50%;
   animation: movingParticles 2s linear infinite;
+}
+@keyframes movingParticles {
+  0%
+  {
+    transform: translate(0);
+  }
+  100%
+  {
+    transform: translate(100px);
+  }
 }
 /* end of other multiple particles styles */
