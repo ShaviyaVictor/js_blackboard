@@ -17,5 +17,6 @@ span
   background: #f00;
   width: 10px;
   height: 10px;
+  pointer-events: none;
 }
 /* end of particle styling */
