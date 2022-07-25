@@ -1,7 +1,7 @@
 # js_blackboard
 javascript effects upon cursor hover actions. Practice purpose.
          
-<img src="#" width="600" height="350" alt="">             
+<img src="https://github.com/ShaviyaVictor/js_blackboard/blob/main/assets/images/particles.png" width="600" height="350" alt="">             
 
 ## Built With
 
