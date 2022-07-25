@@ -12,6 +12,10 @@ document.addEventListener('mousemove', function(e) {
   particles.style.width = 2 + size + 'px';
   particles.style.height = 2 + size + 'px';
 
+  let transformValue = Math.random() * 360;
+  particles.style.transform = 'rotate('
+    + transformValue + 'deg)';
+
   body.appendChild(particles);
 
   setTimeout(function() {
